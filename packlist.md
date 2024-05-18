@@ -33,6 +33,7 @@
 * T-Shirt (2x)
 * Pulli
 * Hose
+* Schnelltrocknendes Mikrofaser Handtuch
 
 
 ## Hygiene
@@ -74,12 +75,15 @@
 * Tubeless tool + plugs
 * Multitool
 * Kabelbinder
+* Schaltauge
+* Mini-Luftpumpe
 
 #### Im Begleitfahrzeug
 
 * Kettenschmiermittel
 * Ersatz-Reifen (optional)
 * Ersatzschlauch
+* Standluftpumpe
 
 ## Sonstiges
 
@@ -90,8 +94,12 @@
   * USB-c
   * µUSB
   * Garmin-Uhr-(Kabel/Adapter)
+  * Schaltung
 * Riegel/Elektrolytlösung/Gels
 * Herzfrequenzmesser
+* Batterien/Akkus/Knopfzellen (für Schalthebel, HR-Sensor, ...)
+* Medikamente
+* Oropax
 
 ## Packtaschen
 
